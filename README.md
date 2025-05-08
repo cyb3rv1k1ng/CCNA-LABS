@@ -16,11 +16,11 @@ This repository contains hands-on labs covering various CCNA topics including:
 - Basic and Advanced Firewall Configurations
 
 ### 🛠️ Prerequisites
-Cisco Packet Tracer (v8.x or higher recommended)
+- Cisco Packet Tracer (v8.x or higher recommended)
 
-Basic understanding of networking concepts
+- Basic understanding of networking concepts
 
-CCNA study materials (optional but helpful)
+- CCNA study materials (optional but helpful)
 
 ### 🚀 Getting Started
 - Clone this repository:
