@@ -15,7 +15,7 @@ This repository contains hands-on labs covering various CCNA topics including:
 
 - Basic and Advanced Firewall Configurations
 
-🛠️ Prerequisites
+### 🛠️ Prerequisites
 Cisco Packet Tracer (v8.x or higher recommended)
 
 Basic understanding of networking concepts
@@ -23,10 +23,8 @@ Basic understanding of networking concepts
 CCNA study materials (optional but helpful)
 
 🚀 Getting Started
-Clone this repository:
+- Clone this repository:
 
-bash
-git clone https://github.com/yourusername/ccna-labs.git
-Open the .pkt files in Cisco Packet Tracer
+- Open the .pkt files in Cisco Packet Tracer
 
-Follow the lab instructions in each lab's README
+- Follow the lab instructions in each lab's README
