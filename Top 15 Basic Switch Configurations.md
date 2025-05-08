@@ -1,12 +1,6 @@
----
-tags:
-  - networking
-  - CCNA
-date created: 2025-03-23
----
 
- 
-![[Pasted image 20250323065259.png]]
+
+
 
 - Configure Hostname and banner motd
 ```
