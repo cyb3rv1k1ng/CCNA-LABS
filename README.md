@@ -22,7 +22,7 @@ Basic understanding of networking concepts
 
 CCNA study materials (optional but helpful)
 
-🚀 Getting Started
+### 🚀 Getting Started
 - Clone this repository:
 
 - Open the .pkt files in Cisco Packet Tracer
