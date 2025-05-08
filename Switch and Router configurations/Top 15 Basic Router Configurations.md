@@ -1,11 +1,4 @@
----
-tags:
-  - networking
-  - CCNA
-date created: 2025-03-23
----
-![[Pasted image 20250323073759.png]]
-
+![Router config via console](https://github.com/cyb3rv1k1ng/CCNA-LABS/blob/main/Switch%20and%20Router%20configurations/Router%20config%20via%20console.png)
 
 - Configure Hostname and banner motd
 ```
