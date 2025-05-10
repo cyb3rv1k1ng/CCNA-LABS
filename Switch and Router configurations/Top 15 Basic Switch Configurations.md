@@ -1,6 +1,6 @@
 
 
-
+![switch config via console.png](https://github.com/cyb3rv1k1ng/CCNA-LABS/blob/main/Switch%20and%20Router%20configurations/switch%20config%20via%20console.png)
 
 - Configure Hostname and banner motd
 ```
