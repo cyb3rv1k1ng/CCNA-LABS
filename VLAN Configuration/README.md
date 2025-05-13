@@ -49,7 +49,7 @@ S1(config)#do sh vlan
 ![IP Assignment](https://github.com/cyb3rv1k1ng/CCNA-LABS/blob/main/VLAN%20Configuration/IP%20configuration%202.png)
 
 - Test communication between devices. You will observe communication between devices in different VLANs is fails. PCs that are not in the same VLAN cannot see each other and so don't know how to get to that destination as they are also on different networks. This is where the router comes in.
-- As you can see the PCs in `192.168.10.0` network can communicate but when we try to ping the `192.168.20.0` network communication fails.
+- Only PCs in the same VLAN will be able to communicate.
 
 ![Test communication](https://github.com/cyb3rv1k1ng/CCNA-LABS/blob/main/VLAN%20Configuration/ping%20test.png)
 
