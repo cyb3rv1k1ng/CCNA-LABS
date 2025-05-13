@@ -1,6 +1,6 @@
 # VLAN Configuration
 
-![network topology](https://github.com/cyb3rv1k1ng/CCNA-LABS/blob/main/VLAN%20Configuration/ntetork%20topology.png)
+![network topology](https://github.com/cyb3rv1k1ng/CCNA-LABS/blob/main/VLAN%20Configuration/network%20topology.png)
 
 ```
 Switch(config)#host S0
