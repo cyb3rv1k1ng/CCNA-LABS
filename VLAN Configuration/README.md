@@ -2,44 +2,9 @@
 
 ![network topology](https://github.com/cyb3rv1k1ng/CCNA-LABS/blob/main/VLAN%20Configuration/network%20topology.png)
 
-```
-Switch(config)#host S0
-S0(config)#int range fa0/1
-S0(config-if-range)#sw mode acc
-S0(config-if-range)#sw acc vlan 10
-S0(config-if-range)#exit
 
-S0(config)#int fa1/1
-S0(config-if)#sw mode acc
 
-S0(config-if)#int fa3/1
-S0(config-if)#sw mode acc
-S0(config-if)#sw acc vlan 10
-
-S0(config-if)#int fa2/1
-S0(config-if)#sw mode acc
-S0(config-if)#sw acc vlan 10
-
-S0(config-if)#int fa6/1
-S0(config-if)#sw mode acc
-S0(config-if)#sw acc vlan 30
-
-S0(config-if)#int fa7/1
-S0(config-if)#sw mode acc
-S0(config-if)#sw acc vlan 30
-
-S0(config-if)#int fa3/1
-S0(config-if)#sw acc vlan 20
-
-S0(config-if)#int fa2/1
-S0(config-if)#sw acc vlan 20
-S0(config-if)#exit
-
-S0(config)#do wr
-S0(config)#do sh vlan
-```
-
-- Switch 1 config:
+- Switch 1 config: Assign hostname and create VLANs
 ```
 Switch(config)#host S1
 S1(config)#int range fa0/1
